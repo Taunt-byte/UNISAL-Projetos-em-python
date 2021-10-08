@@ -1,15 +1,26 @@
-# 8 Projetos feitos em python
+# Projetos feitos em python
 
-Status: em desenvolvimento
+Status: Prontos
 
-## O que é o projeto ?
+## Sobre
 
-+ São 8 projetos em python feitos com o intuido de conhecer melhor a linguagem
++ São projetos feitos em python como forma de aprender melhor a linguagem 
++ Os projetos foram feitos com forme uma video aula do youtube 
++ Os creditos estão nesse README 
 
-## o que é cada projeto
+## Projetos
 
 + Simulador de dados
++ Decida por mim
++ Jogo de aventura
++ Chute um numero
 
-## Autor original do codigo 
+## Tecnologia
+
+1. Python
+2. PySimpleGUI
+3. VS Code
+
+## Autor do codigo
 
 + https://www.youtube.com/watch?v=7U3-pJZkN-o&ab_channel=DevAprender
