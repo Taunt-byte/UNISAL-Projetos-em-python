@@ -23,4 +23,4 @@ Status: Prontos
 
 ## Autor do codigo
 
-+ https://www.youtube.com/watch?v=7U3-pJZkN-o&ab_channel=DevAprender
+<code> https://www.youtube.com/watch?v=7U3-pJZkN-o&ab_channel=DevAprender </code>
