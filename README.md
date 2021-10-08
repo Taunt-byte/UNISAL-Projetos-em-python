@@ -5,7 +5,7 @@ Status: Prontos
 ## Sobre
 
 + São projetos feitos em python como forma de aprender melhor a linguagem 
-+ Os projetos foram feitos com forme uma video aula do youtube 
++ Os projetos foram feitos conforme uma video aula do youtube 
 + Os creditos estão nesse README 
 
 ## Projetos
