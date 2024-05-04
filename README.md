@@ -1,4 +1,4 @@
-# Logica de Programacao
+# Projetos feitos em python
 
 Status: Prontos
 
